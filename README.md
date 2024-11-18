@@ -3,9 +3,9 @@
 </div>
 <hr>
 <h3 align="center">PAGE UNDER CONSTRUCTION</h3>
-<img src="" alt="Kojichu" align="center"/>
+<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/kojichu.gif" alt="Kojichu" align="center"/>
 <br clear="left">
-<img src="" alt="Under Construction" align="center"/>
+<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/construction.gif" alt="Under Construction" align="center"/>
 <br clear="left">
 <p>
     You are the
@@ -14,16 +14,16 @@
 </p>
 <hr>
 <a href="https://native-land.ca/">
-                    <img src="" align="center"
+                    <img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/land_acknowledgement.gif" align="center"
                         title="made on xʷməθkʷəy̓əm, Sḵwx̱wú7mesh, səlilwətaɬ territories"
                         alt="made on xʷməθkʷəy̓əm, Sḵwx̱wú7mesh, səlilwətaɬ territories">
 </a>
 <br clear="left">
-<img src="" alt="Made with VS Code"/>
+<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/vscbutton.gif" alt="Made with VS Code"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="" alt="Hokkaido"/>
+<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/hokkaido.gif" alt="Hokkaido"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="" alt="Made on GNU-Linux"/>
+<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/gnu-linux.gif" alt="Made on GNU-Linux"/>
 
 <hr>
 <p>
