@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://github.com/kotonomori/kotonomori/blob/248919da6667b08d0b89cb59decd8d14114962bd/wordart.png" alt="Welcome to my GitHub page" align="center">
+<img src="" alt="Welcome to my GitHub page" align="center">
 </div>
 
 <p>PAGE UNDER CONSTRUCTION</p>
+
+![Overall Statistics](https://lastly.nisarga.me/api/overall?username=Shinonome011&period=12month)
+
+![Visitor Count](https://profile-counter.glitch.me/kotonomori/count.svg)
