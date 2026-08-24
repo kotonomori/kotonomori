@@ -20,6 +20,5 @@ Interests: language technologies, language revitalization
                         alt="made on xʷməθkʷəy̓əm, Sḵwx̱wú7mesh, səlilwətaɬ territories">
     </a>
 </p>
-<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/vscbutton.gif" alt="Made with VS Code"/>
 <img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/hokkaido.gif" alt="Hokkaido"/>
 <img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/gnu-linux.gif" alt="Made on GNU-Linux"/>
