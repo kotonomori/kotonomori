@@ -2,11 +2,7 @@
 <img src="https://github.com/kotonomori/kotonomori/blob/00c614d6d9d67909a992b11bf017b731d31932f0/img/wordart.png" alt="Welcome to my GitHub page" align="center">
 </div>
 <hr>
-<h3 align="middle">PAGE UNDER CONSTRUCTION</h3>
-<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/kojichu.gif" alt="Kojichu" align="middle"/>
-<br>
-<img src="https://github.com/kotonomori/kotonomori/blob/6cfc1057c194b615c49f08596ff5483bc8a6291d/img/construction.gif" alt="Under Construction" align="middle"/>
-<br>
+
 <hr>
 <p>
     <a href="https://native-land.ca/">
